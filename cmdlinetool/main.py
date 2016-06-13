@@ -1,4 +1,4 @@
-from . import util
+from cmdlinetool import util
 
 
 def run():
