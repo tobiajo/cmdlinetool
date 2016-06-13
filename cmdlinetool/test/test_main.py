@@ -1,6 +1,6 @@
 import os
 import unittest
-from .. import test
+from cmdlinetool import test
 
 
 def run():
