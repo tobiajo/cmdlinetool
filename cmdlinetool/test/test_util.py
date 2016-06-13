@@ -1,5 +1,5 @@
 import unittest
-from cmdlinetool import util
+from .. import util
 
 
 class TestUtil(unittest.TestCase):
